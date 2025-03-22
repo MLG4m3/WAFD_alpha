@@ -144,6 +144,28 @@
  CAS_united_NF:0 "Volkstaat Cascadia"
  CAS_united_NF_DEF:0 "the Volkstaat Cascadia"
  
+ NWT:0 "Northwestern Territorial Imperative"
+ NWT_DEF:0 "the Northwestern Territorial Imperative"
+ NWT_ADJ:0 "Aryan"
+ NWT_center:0 "North American Unitary State"
+ NWT_center_DEF:0 "the North American Unitary State"
+ NWT_center_ADJ:0 "American"
+ NWT_reform:0 "Federal State of America"
+ NWT_reform_DEF:0 "the Federal State of America"
+ NWT_reform_ADJ:0 "American"
+ NWT_red:0 "Atlantica"
+ NWT_red_DEF:0 "the Atlantic Union"
+ NWT_red_ADJ:0 "Atlantican"
+ NWT_right:0 "Union of Columbia"
+ NWT_right_DEF:0 "the Union of Columbia"
+ NWT_right_ADJ:0 "Columbian"
+ NWT_esoteric:0 "Celestial Empire of America"
+ NWT_esoteric_DEF:0 "the Great North American Empire of Celestial Great Peace"
+ NWT_esoteric_ADJ:0 "Astro-Aryan"
+ 
+ NWT_NF_party:0 "AANP"
+ NWT_NF_party_long:0 "All-American Nationalist Party"
+ 
  
  
  WSH:0 "Washington Government"
