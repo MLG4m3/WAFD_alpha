@@ -1,0 +1,30 @@
+
+state={
+	id=984
+	name="STATE_984"
+	manpower = 1000
+	
+	state_category = town
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 2 #was: 5
+			air_base = 1
+			12211 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = CAS
+		victory_points = {
+			4380 1 
+		}
+
+	}
+
+	provinces={
+		4380 10183 12211 12281
+	}
+
+	local_supplies=0.0 
+}

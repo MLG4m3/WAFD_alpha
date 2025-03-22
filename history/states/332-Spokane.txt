@@ -1,0 +1,29 @@
+state={
+	id=332
+	name="STATE_332"
+	
+	state_category = rural
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			air_base = 1
+		}
+		add_core_of = CAS
+
+	}
+
+	victory_points = {
+		1690 1 # Spokane
+	}
+
+	provinces={
+		1690 4747 10327 10693 12673
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,312 @@
+﻿l_english:
+
+### Examples
+
+ TAG:0 "Nation"
+ TAG_DEF:0 "Nation"
+ TAG_ADJ:0 "National"
+
+ TAG_AN:0 "Free Territories"
+ TAG_AN_DEF:0 "the Free Territories"
+ TAG_ML:0 "Soviet Republic"
+ TAG_ML_DEF:0 "the Soviet Republic"
+ TAG_RS:0 "Socialist Republic"
+ TAG_RS_DEF:0 "the Socialist Republic"
+ TAG_PL:0 "Progressive Republic"
+ TAG_PL_DEF:0 "the United Republic"
+ TAG_CL:0 "Conservative Republic"
+ TAG_CL_DEF:0 "the United Republic"
+ TAG_AC:0 "Authoritarian State"
+ TAG_AC_DEF:0 "the Authoritarian State"
+ TAG_NA:0 "National State"
+ TAG_NA_DEF:0 "the National State"
+ TAG_NF:0 "Aryan Empire"
+ TAG_NF_DEF:0 "the Aryan Social Republic"
+
+ # Ideology-based adjective are rarely needed, but there is an example in case
+
+ TAG_NF_ADJ:0 "Aryan"
+
+ TAG_subject:0 "$OVERLORDADJ$ Satellite"
+ TAG_subject_DEF:0 "$OVERLORDADJ$ Satellite"
+ TAG_GER_subject:0 "Deutsch-Satellite"
+ TAG_GER_subject_DEF:0 "the Deutsch-Satellite"
+ TAG_SOV_communism_subject:0 "Some Soviet SSR"
+ TAG_SOV_communism_subject_DEF:0 "Some Soviet SSR"
+ 
+ # as you can see, the long version of the party name is often the same name, unless you use initial like the neofascist one
+ 
+ TAG_AN_party:0 "Free Anarchists"
+ TAG_AN_party_long:0 "Free Anarchist Federation"
+ TAG_ML_party:0 "Communist Party"
+ TAG_ML_party_long:0 "Communist Party"
+ TAG_RS_party:0 "Socialist Party"
+ TAG_RS_party_long:0 "Socialist Party"
+ TAG_PL_party:0 "Progressive Party"
+ TAG_PL_party_long:0 "Progressive Party"
+ TAG_CL_party:0 "Conservative Party"
+ TAG_CL_party_long:0 "Conservative Party"
+ TAG_AC_party:0 "Autocracy"
+ TAG_AC_party_long:0 "the Authoritarian State"
+ TAG_NA_party:0 "Nationalist Party"
+ TAG_NA_party_long:0 "Nationalist Party"
+ TAG_NF_party:0 "NFFPO"
+ TAG_NF_party_long:0 "the Neo-Fascist Front Party Organization"
+
+### AMERICA
+
+ VIN:0 "Army of Vinland"
+ VIN_DEF:0 "the Army of Vinland"
+ VIN_ADJ:0 "Vinlander"
+ 
+ VIN_freetribes:0 "Free Tribes of America"
+ VIN_freetribes_DEF:0 "the Free Tribes of America"
+ VIN_freetribes_ADJ:0 "Tribal"
+ 
+ VIN_vinlandia:0 "Kingdom of Vinlandia"
+ VIN_vinlandia_DEF:0 "Kingdom of Vinlandia"
+ VIN_vinlandia_ADJ:0 "Vinlandian"
+ 
+ 
+ 
+ LAK:0 "Lakotah"
+ LAK_DEF:0 "the Sioux Republic of the Dakotas"
+ LAK_ADJ:0 "Sioux"
+ LAK_PL:0 "Lakotah"
+ LAK_PL_DEF:0 "the Lakotah Federation"
+ LAK_PL_ADJ:0 "Lakotah"
+ LAK_RS:0 "Lakotah"
+ LAK_RS_DEF:0 "the Lakotah Federation"
+ LAK_RS_ADJ:0 "Lakotah"
+ LAK_ML:0 "Indian Soviet Republic"
+ LAK_ML_DEF:0 "the American-Indian Soviet Republic"
+ LAK_ML_ADJ:0 "Indian"
+
+ LAK_NF:0 "Greater Ameridia Patria"
+ LAK_NF_DEF:0 "the Greater Ameridia Patria"
+ LAK_NF_ADJ:0 "Redman"
+ LAK_NF_party:0 "NAARP"
+ LAK_NF_party_long:0 "National Ameridianist American Redman's Party"
+ LAK_turtleisland:0 "Turtle Island Federation"
+ LAK_turtleisland_DEF:0 "the Turtle Island Federation"
+ LAK_turtleisland_ADJ:0 "Amerindian"
+
+
+ NEG:0 "New England"
+ NEG_DEF:0 "New England"
+ NEG_ADJ:0 "New Englander"
+
+
+ CAS:0 "Cascadia"
+ CAS_DEF:0 "Cascadia"
+ CAS_ADJ:0 "Cascadian"
+ 
+ CAS_AN:0 "Cascadian Communes"
+ CAS_AN_DEF:0 "the Cascadian Communes"
+ CAS_ML:0 "Cascadian People's State"
+ CAS_ML_DEF:0 "the Cascadian People's State"
+ CAS_RS:0 "Cascadian Federal Republic"
+ CAS_RS_DEF:0 "the Cascadian Federal Republic"
+ CAS_PL:0 "Cascadian Democratic Republic"
+ CAS_PL_DEF:0 "the Cascadian Democratic Republic"
+ CAS_CL:0 "Republic of Oregon"
+ CAS_CL_DEF:0 "the Occidental Republic of Oregon"
+ CAS_AC:0 "Cascadian Convenant"
+ CAS_AC_DEF:0 "the Cascadian Provisional Republic"
+ CAS_NA:0 "Cascadian Provisional Authority"
+ CAS_NA_DEF:0 "the Cascadian Provisional Republic"
+ CAS_NF:0 "Volkstaat Cascadia " #blood and soil ecofash thing
+ CAS_NF_DEF:0 "the Volkstaat Cascadia"
+ 
+ CAS_AN_party:0 "Decentralist Party"
+ CAS_ML_party:0 "Communist Party of Cascadia"
+ CAS_RS_party:0 "Futurist Party" #technatist
+ CAS_PL_party:0 "Cascadian Labor Party"
+ CAS_CL_party:0 "Agrarian Party"
+ CAS_AC_party:0 "Provisional Council"
+ CAS_NA_party:0 "Reform Party"
+ CAS_NF_party:0 "Reform Party"
+ 
+ CAS_united_AN:0 "American Communes"
+ CAS_united_AN_DEF:0 "the United American Communes"
+ CAS_united_ML:0 "People's Republic of America"
+ CAS_united_ML_DEF:0 "the People's Republic of America"
+ CAS_united_RS:0 "North American Technate"
+ CAS_united_RS_DEF:0 "the North American Technate"
+ CAS_united_PL:0 "United Republics of America"
+ CAS_united_PL_DEF:0 "the United Republics of America"
+ CAS_united_CL:0 "Columbian Republic"
+ CAS_united_CL_DEF:0 "the Columbian Republic"
+ CAS_united_AC:0 "Pan-American Provisional Republic"
+ CAS_united_AC_DEF:0 "the Pan-American Provisional Republic set_ruling_party console command"
+ CAS_united_NA:0 "Pan-American Spiritual State"
+ CAS_united_NA_DEF:0 "the Pan-American Spiritual State"
+ CAS_united_NF:0 "Volkstaat Cascadia"
+ CAS_united_NF_DEF:0 "the Volkstaat Cascadia"
+ 
+ 
+ 
+ WSH:0 "Washington Government"
+ WSH_DEF:0 "the Washington Federal Government"
+ WSH_ADJ:0 "American"
+ 
+ NYC:0 "New York City"
+ NYC_DEF:0 "New York City"
+ NYC_ADJ:0 "New Yorker"
+ 
+ TEX:0 "Texas"
+ TEX_DEF:0 "Texas"
+ TEX_ADJ:0 "Texan"
+ 
+ TXS:0 "Nationalist Texas"
+ TXS_DEF:0 "Texas"
+ TXS_ADJ:0 "Texan"
+ 
+ BYA:0 "Bay Area"
+ BYA_DEF:0 "Bay Area Autonomous Zone"
+ BYA_ADJ:0 "Bayian"
+ BYA_NF_ADJ:0 "Bay Aryan" 
+ 
+ BLD:0 "Bloods"
+ BLD_DEF:0 "the Bloods Gang"
+ BLD_ADJ:0 "Bloods"
+ 
+ CRP:0 "Crips"
+ CRP_DEF:0 "the Crips Gang"
+ CRP_ADJ:0 "Crips"
+ 
+ WMT:0 "Western Mountaineers"
+ WMT_DEF:0 "the Western Mountaineer Company"
+ WMT_ADJ:0 "Mountaineer"
+
+ WMT_eco:0 "Nevada Federation"
+ WMT_eco_DEF:0 "the Regional Federation of Sierra Nevada"
+ WMT_ancom:0 "Mountain Collective"
+ WMT_ancom_DEF:0 "the Western Mountain Collective"
+ WMT_illegal:0 "Outlaws Republic"
+ WMT_illegal_DEF:0 "the Outlaws and Thieves Republic of California and Nevada"
+ WMT_illegal_ADJ:0 "Outlaws"
+ WMT_prim:0 "Mountain Tribemens"
+ WMT_prim_DEF:0 "the Mountain Tribemens"
+ WMT_prim_ADJ:0 "Tribal"
+
+ JEF:0 "Jefferson"
+ JEF_DEF:0 "the State of Jefferson"
+ JEF_ADJ:0 "Jeffersonian"
+ 
+
+
+ ASU:0 "Socialist America"
+ ASU_DEF:0 "Socialist America"
+ ASU_ADJ:0 "American"
+ 
+ ASU_AN:0 "Free Territory of the Lakes"
+ ASU_AN_DEF:0 "the Free Territory of the Great Lakes"
+ ASU_ML:0 "American Soviet Socialist Union"
+ ASU_ML_DEF:0 "the American Soviet Socialist Union"
+ ASU_RS:0 "American Soviet Socialist Union"
+ ASU_RS_DEF:0 "the American Soviet Socialist Union"
+ ASU_PL:0 "Laurentian Republic"
+ ASU_PL_DEF:0 "the Laurentian Republic"
+ ASU_CL:0 "Laurentian Republic"
+ ASU_CL_DEF:0 "the Laurentian Republic"
+ ASU_AC:0 "Great Lakes"
+ ASU_AC_DEF:0 "the Federation of the Great Lakes"
+ ASU_NA:0 "Great Lakes"
+ ASU_NA_DEF:0 "the Union of the Great Lakes"
+ ASU_NF:0 "North Dixie"
+ ASU_NF_DEF:0 "the Confederacy of North Dixieland"
+ 
+ ASU_AN_ADJ:0 "Laurentian"
+ ASU_PL_ADJ:0 "Laurentian"
+ ASU_CL_ADJ:0 "Laurentian"
+ ASU_NF_ADJ:0 "North Dixie"
+ 
+ ASU_WSH_subject:0 "Great Lakes Command Center"
+ ASU_WSH_subject_DEF:0 "the Great Lakes Command Center"
+ ASU_SOV_communism_subject:0 "North American SSR"
+ ASU_SOV_communism_subject_DEF:0 "the North American SSR"
+ 
+ ASU_AN_party:0 "Anarchist Federation"
+ ASU_ML_party:0 "CPA - Hardline"
+ ASU_RS_party:0 "CPA - Reformist"
+ ASU_ML_party_long:0 "Communist Party of America"
+ ASU_RS_party_long:0 "Communist Party of America"
+ ASU_PL_party:0 "Free Liberal Party"
+ ASU_CL_party:0 "National Freedom Party"
+ ASU_AC_party:0 "Great Lake Government"
+ ASU_NA_party:0 "Great Lake Government"
+ ASU_NF_party:0 "North Dixielanders Party"
+ 
+ ASU_greatlakes:0 "People's Republic of the Great Lakes"
+ ASU_greatlakes_DEF:0 "the People's Republic of the Great Lakes"
+ ASU_greatlakes_ADJ:0 "Laurentian"
+ 
+ 
+ 
+ CUB:0 "Cuba"
+ CUB_DEF:0 "Cuba"
+ CUB_ADJ:0 "Cuban"
+ CUB_ML:0 "Carribean Federation"
+ CUB_ML_DEF:0 "the Carribean Federation"
+ CUB_ML_ADJ:0 "Carribean"
+ 
+ 
+ 
+ ### NOT AMERICA
+ 
+ 
+ 
+ VET:0 "Vietnam"
+ VET_DEF:0 "Vietnam"
+ VET_ADJ:0 "Vietnamese"
+ 
+ SAH:0 "Sahel"
+ SAH_DEF:0 "the Confederation of Sahel"
+ SAH_ADJ:0 "Sahel"
+
+ GAB:0 "Equatorial Union"
+ GAB_DEF:0 "the Equatorial Union"
+ GAB_ADJ:0 "Equatorial"
+ 
+ CHI:0 "Roc"
+ PRC:0 "Prc"
+ 
+ REU:0 "Reunion"
+ REU_DEF:0 "Reunion Island"
+ REU_ADJ:0 "Reunionese"
+ REU_ML:0 "Reunion"
+ REU_ML_DEF:0 "the People's Republic of Reunion Island"
+ 
+ FRA:0 "France"
+ FRA_DEF:0 "French Republic"
+ FRA_ADJ:0 "French"
+ FRA_AN_party:0 "Anarchiste"
+ FRA_AN_party_long:0 "Fédération Anarchiste\nAnarchist Federation"
+ FRA_ML_party:0 "NGP"
+ FRA_ML_party_long:0 "Gauche Prolétarienne\nProletarian Left"
+ FRA_RS_party:0 "PCF" #neomarxist
+ FRA_RS_party_long:0 "Parti Communiste Français\nFrench Communist Party"
+ FRA_PL_party:0 "PS"
+ FRA_PL_party_long:0 "Parti Socialiste\nFrench Communist Party"
+ FRA_CL_party:0 "RPR"
+ FRA_CL_party_long:0 "Rassemblement Pour la République\nRally For the Republic"
+ FRA_NA_party:0 "FN"
+ FRA_NA_party_long:0 "Front National\nNational Front"
+ 
+ UBD:0 "Baltic SSR"
+ UBD_DEF:0 "the United Baltic SSR"
+ UBD_ADJ:0 "Baltic"
+ 
+ DDR:0 "East Germany"
+ DDR_DEF:0 "East Germany"
+ DDR_ADJ:0 "East German"
+ DDR_ML:0 "German Democratic Republic"
+ DDR_ML_DEF:0 "the German Democratic Republic"
+ DDR_RS:0 "German Democratic Republic"
+ DDR_RS_DEF:0 "the German Democratic Republic"
+ 
+ SHL:0 "Schleswig-Holstein"
+ SHL_DEF:0 "Schleswig-Holstein"
+ SHL_ADJ:0 "Schleswig-Holstein"
+  

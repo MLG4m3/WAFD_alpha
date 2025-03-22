@@ -1,0 +1,42 @@
+state = {
+	id = 983
+	name = "STATE_983" # olympia
+	manpower = 1563395
+	
+	state_category = large_town
+
+	history = {
+
+		owner = CAS
+		add_core_of = CAS
+
+		buildings = {
+			infrastructure = 2 #was: 6
+			arms_factory = 1
+			dockyard = 1
+			air_base = 4
+
+			# Grand Coulee Dam
+			#10327 = { dam = 1 }
+
+		}
+
+		victory_points = {
+			7386 5 # Olympia
+		}
+
+		1939.1.1 = {
+			buildings = {
+				7315 = {
+					air_facility = 1 # Boeing Factories
+				}
+			}
+		}
+	}
+
+	provinces = {
+		4296 4398 7255 7386 7442 10155 10242 10271 10690 12155
+	}
+
+	local_supplies = 0.0 
+}

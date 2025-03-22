@@ -1,0 +1,49 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_ideology_AN_group"
+		texturefile = "gfx/interface/ideologies/groups/AN.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_ML_group"
+		texturefile = "gfx/interface/ideologies/groups/ML.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_RS_group"
+		texturefile = "gfx/interface/ideologies/groups/RS.dds"
+	}
+
+		spriteType = {
+		name = "GFX_ideology_PL_group"
+		texturefile = "gfx/interface/ideologies/groups/PL.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_CL_group"
+		texturefile = "gfx/interface/ideologies/groups/CL.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_AC_group"
+		texturefile = "gfx/interface/ideologies/groups/AC.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_NA_group"
+		texturefile = "gfx/interface/ideologies/groups/NA.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_NF_group"
+		texturefile = "gfx/interface/ideologies/groups/NF.dds"
+	}
+
+	spriteType = {
+		name = "GFX_ideology_unknown"
+		texturefile = "gfx/interface/ideologies/groups/unknown.dds"
+		legacy_lazy_load = no
+	}
+	
+}

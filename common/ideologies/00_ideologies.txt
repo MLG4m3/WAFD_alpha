@@ -1,0 +1,307 @@
+ideologies = {
+	
+	AN = {
+	
+		types = {
+			default_AN = {}
+			anarcho_communism = { can_be_randomly_selected = no }
+			anarcho_syndicalism = { can_be_randomly_selected = no }
+			zapatism = { can_be_randomly_selected = no }
+			eco_anarchism = { can_be_randomly_selected = no }
+			agro_anarchism = { can_be_randomly_selected = no }
+			neoluddism = { can_be_randomly_selected = no }
+			anarcho_stratocracy = { can_be_randomly_selected = no }
+			full_anarchism = { can_be_randomly_selected = no }
+			anarcho_pacifism = { can_be_randomly_selected = no }
+			mystical_anarchism = { can_be_randomly_selected = no }
+		}
+
+		color = { 60 60 60 } # RGB
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.1 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension	
+		modifiers = {}
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 50 #plus 50% trade opinion
+		}
+		ai_<neutral> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+	}
+	ML = {
+	
+		types = {
+			default_ML = {}
+			marxismleninism = { can_be_randomly_selected = no }
+			hardline = { can_be_randomly_selected = no }
+			Technosocialism = { can_be_randomly_selected = no }
+			leftjunta = { can_be_randomly_selected = no }
+			nationalcommunism = { can_be_randomly_selected = no }
+			proletkult = { can_be_randomly_selected = no }
+		}
+
+		color = { 180 10 10 } # RGB
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.1 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension	
+		modifiers = {}
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 50 #plus 50% trade opinion
+		}
+		ai_<neutral> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+	}
+	RS = {
+	
+		types = {
+			default_RS = {}
+			technocracy = { can_be_randomly_selected = no }
+			syndicalism = { can_be_randomly_selected = no }
+			democratic_socialism = { can_be_randomly_selected = no }
+			reform_socialism = { can_be_randomly_selected = no }
+			patriotic_socialism = { can_be_randomly_selected = no }
+			neomarxism = { can_be_randomly_selected = no }
+			amerindianism = { can_be_randomly_selected = no }
+		}
+		
+		color = { 245 66 66 } # RGB
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.1 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension	
+		modifiers = {}
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 50 #plus 50% trade opinion
+		}
+		ai_<neutral> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+	}
+	PL = {
+	
+		types = {
+			default_PL = {}
+			social_liberal = { can_be_randomly_selected = no }
+			social_democrat = { can_be_randomly_selected = no }
+			environmentalism = { can_be_randomly_selected = no }
+			neoliberalism = { can_be_randomly_selected = no }
+			modern_left = { can_be_randomly_selected = no }
+		}
+		
+		color = { 240 80 130 } # RGB
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.1 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension	
+		modifiers = {}
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 50 #plus 50% trade opinion
+		}
+		ai_<neutral> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+	}
+	CL = {
+	
+		types = {
+			default_CL = {}
+			classical_liberal = { can_be_randomly_selected = no }
+			libertarian = { can_be_randomly_selected = no }
+			traditionalism = { can_be_randomly_selected = no }
+			christdem = { can_be_randomly_selected = no }
+			ruralism = { can_be_randomly_selected = no }
+			constitutionalism = { can_be_randomly_selected = no }
+			patriotism = { can_be_randomly_selected = no }
+		}
+		
+		color = { 80 150 240 } # RGB
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.1 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension	
+		modifiers = {}
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 50 #plus 50% trade opinion
+		}
+		ai_<neutral> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+	}
+	AC = {
+	
+		types = {
+			default_AC = {}
+			authoritarian_liberal = { can_be_randomly_selected = no }
+			warlordism = { can_be_randomly_selected = no }
+			military_junta = { can_be_randomly_selected = no }
+			monarchism = { can_be_randomly_selected = no }
+			controlled_democracy = { can_be_randomly_selected = no }
+			vinlandianism = { can_be_randomly_selected = no }
+			theocracy = { can_be_randomly_selected = no }
+		}
+		
+		color = { 230 230 250} # RGB
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.1 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension	
+		modifiers = {}
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 50 #plus 50% trade opinion
+		}
+		ai_<neutral> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+	}
+	NA = {
+	
+		types = {
+			default_NA = {}
+			radical_populism = { can_be_randomly_selected = no }
+			isolationism = { can_be_randomly_selected = no }
+			third_worldism = { can_be_randomly_selected = no }
+			reactionary = { can_be_randomly_selected = no }
+			pannationalism = { can_be_randomly_selected = no }
+			social_chauvinism = { can_be_randomly_selected = no }
+			eurasianist = { can_be_randomly_selected = no }
+		}
+		
+		color = { 64 66 128 } # RGB
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.1 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension	
+		modifiers = {}
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 50 #plus 50% trade opinion
+		}
+		ai_<neutral> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+	}
+	NF = {
+	
+		types = {
+			default_NF = {}
+			ecofascism = { can_be_randomly_selected = no }
+			ethnonationalism = { can_be_randomly_selected = no }
+			aryanism = { can_be_randomly_selected = no }
+			nazbol = { can_be_randomly_selected = no }
+			neofeudalism = { can_be_randomly_selected = no }
+			right_technocracy = { can_be_randomly_selected = no }
+			esortericism = { can_be_randomly_selected = no }
+		}
+		
+		color = { 111 64 25 } # RGB
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.1 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension	
+		modifiers = {}
+		can_be_boosted = yes
+		can_collaborate = yes
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 50 #plus 50% trade opinion
+		}
+		ai_<neutral> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+	}
+}
