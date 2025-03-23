@@ -1123,6 +1123,10 @@ LAK = {
 	color = rgb { 191 57 57 }
 	color_ui = rgb { 191 57 57 }
 }
+NWF = {
+	color = rgb { 139 69 19 }
+	color_ui = rgb { 139 69 19 }
+}
 BLD = {
 	color = rgb { 163 0 18 }
 	color_ui = rgb { 163 0 18 }

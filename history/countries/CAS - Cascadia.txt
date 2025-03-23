@@ -86,16 +86,63 @@ if = {
 }
 
 set_politics = {
-	ruling_party = RS
+	ruling_party = NA
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	AN = 10
-	ML = 50
-	RS = 40
+	ML = 5
+	RS = 27
+	PL = 21
+	CL = 31
+	AC = 11
+	NF = 5
+}
+
+create_country_leader = {
+	name = "Beginning hardliner"
+	desc = ""
+	picture = GFX_portrait_ASU_Hardliner.dds
+	expire = "1936.2.2"
+	ideology = syndicalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Ending hardliner"
+	desc = "stalin 2"
+	picture = Portrait_ASU_Hardliner.dds
+	expire = "2019.9.9"
+	ideology = hardline
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "demsoc greatlake"
+	desc = "bernos sandex"
+	picture = Portrait_ASU_Demsoc.dds
+	expire = "1936.3.3"
+	ideology = syndicalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Joe Biden"
+	desc = "libral dengist  jo biden"
+	picture = Portrait_ASU_Joe_Biden.dds
+	expire = "2019.9.9"
+	ideology = reform_socialism
+	traits = {
+		
+	}
 }
 
 create_country_leader = {
