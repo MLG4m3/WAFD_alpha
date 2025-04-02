@@ -1,10 +1,7 @@
-version="0.1"
-tags={
-	"Map","Alternative History"
+supported_version="1.15.0"
+name="We All Fall Down"
+path="mod/WAFD_alpha-master/"
+ tags={  
+"Alternative History"
+ 
 }
-dependencies={
-}
-picture="thumbnail.png"
-name="We All Fall Down - Early Alpha"
-path="mod/WAFD_Alpha-master/"
-supported_version="1.15.*"
