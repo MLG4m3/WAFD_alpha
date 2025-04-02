@@ -144,9 +144,12 @@
  CAS_united_NF:0 "Volkstaat Cascadia"
  CAS_united_NF_DEF:0 "the Volkstaat Cascadia"
  
- NWF:0 "Northwestern Territorial Imperative"
- NWF_DEF:0 "the Northwestern Territorial Imperative"
- NWF_ADJ:0 "Aryan"
+ NWF:0 "Idaho"
+ NWF_DEF:0 "the Northwestern Republic of Idaho"
+ NWF_ADJ:0 "Idaho"
+ NWF_NF:0 "Northwestern Territorial Imperative"
+ NWF_NF_DEF:0 "the Northwestern Territorial Imperative"
+ NWF_NF_ADJ:0 "Aryan"
  NWF_center:0 "North American Unitary State"
  NWF_center_DEF:0 "the North American Unitary State"
  NWF_center_ADJ:0 "American"
@@ -287,7 +290,7 @@
  VET_ADJ:0 "Vietnamese"
  
  SAH:0 "Sahel"
- SAH_DEF:0 "the Confederation of Sahel"
+ SAH_DEF:0 "the Alliance of Sahel States"
  SAH_ADJ:0 "Sahel"
 
  GAB:0 "Equatorial Union"

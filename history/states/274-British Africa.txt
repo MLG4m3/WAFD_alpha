@@ -12,8 +12,8 @@ state = {
 
 	history = {
 
-		owner = ENG
-		add_core_of = GHA
+		owner = WES
+		add_core_of = WES
 
 		victory_points = {
 			10862 2 # Accra 

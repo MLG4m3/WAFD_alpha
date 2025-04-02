@@ -11,12 +11,11 @@ state={
 			arms_factory = 1
 			air_base = 1
 		}
+		victory_points = {
+		1690 1 # Spokane
+		}
 		add_core_of = CAS
 
-	}
-
-	victory_points = {
-		1690 1 # Spokane
 	}
 
 	provinces={
