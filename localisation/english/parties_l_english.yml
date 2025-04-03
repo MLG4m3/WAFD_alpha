@@ -37,10 +37,10 @@
  default_AN_desc:0 "anarchoism is when ro rule"
  
  default_ML:0 "Marxist-Leninism"
- default_ML_desc:0 "commie karl marx"
+ default_ML_desc:0 "commie karl marx when state does stuff"
  
  default_RS:0 "Revisionist Socialism"
- default_RS_desc:0 "trotsky demsoc revisionist"
+ default_RS_desc:0 "trotsky demsoc revisionist liberal"
  
  default_PL:0 "Progressive Liberalism"
  default_PL_desc:0 "joe many libtard does it take to changa a lig blbl"
@@ -55,7 +55,7 @@
  default_NA_desc:0 "our nation is good make it great agan"
  
  default_NF:0 "Neofascism"
- default_NF_desc:0 "acjhkusally mussolony was based und redpilled blfksdhgh"
+ default_NF_desc:0 "acjhkusally mussolony hitler was based und redpilled blfksdhgh"
 
 
  
@@ -81,13 +81,13 @@ mystical-anarchism:0 "Mystical Anarchism"
 mystical-anarchism_desc:0 "DESC_Mystical-Anarchism"
 
 marxismleninism:0 "Marxism-Leninism"
-marxismleninism_desc:0 "DESC_Marxism-Leninism"
-hardline:0 "Hardline"
-hardline_desc:0 "DESC_Hardline"
+marxismleninism_desc:0 "DESC_marxismleninism"
+hardline:0 "hardline"
+hardline_desc:0 "DESC_hardline"
 technosocialism:0 "Technosocialism"
-technosocialism_desc:0 "DESC_Technosocialism"
+technosocialism_desc:0 "DESC_technosocialism"
 leftjunta:0 "Left Junta"
-leftjunta_desc:0 "DESC_Left-Junta"
+leftjunta_desc:0 "DESC_leftjunta"
 nationalcommunism:0 "National Communism"
 nationalcommunism_desc:0 "DESC_National-Communism"
 proletkult:0 "Proletkult"

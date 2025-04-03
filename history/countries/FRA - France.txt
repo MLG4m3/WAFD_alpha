@@ -444,6 +444,17 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "François Mitterrand"
+	desc = ""
+	picture = Portrait_FRA_Francois_Mitterand.dds
+	expire = "2019.5.17"
+	ideology = social_democrat
+	traits = {
+		
+	}
+}
+
 add_ideas = {
 	FRA_victors_of_wwi
 	FRA_disjointed_government

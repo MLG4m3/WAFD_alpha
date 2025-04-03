@@ -1287,7 +1287,7 @@ set_popularities = {
 	ML = 88
 }
 
-create_faction = Warsawpact
+create_faction = warsawpact
 add_to_faction = SOV
 add_to_faction = ROM
 add_to_faction = MOL
