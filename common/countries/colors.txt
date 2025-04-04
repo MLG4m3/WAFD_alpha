@@ -5,7 +5,7 @@ GER = {
 	color_ui = rgb { 138 155 116 }
 }
 ENG = {
-	color = rgb { 201 56 93 }
+	color = rgb { 191 36 63 }
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
@@ -17,7 +17,7 @@ SWE = {
 	color_ui = rgb { 47 172 255 }
 }
 FRA = {
-	color = rgb { 70 90 139 }
+	color = rgb { 10 73 200 }
 	color_ui = rgb { 0 70 170 }
 }
 LUX = {
@@ -1104,8 +1104,8 @@ JEF = {
 	color_ui = rgb { 217 201 69 }
 }
 CAL = {
-	color = rgb { 217 201 69 }
-	color_ui = rgb { 217 201 69 }
+	color = rgb { 222 195 114 }
+	color_ui = rgb { 242 205 94 }
 }
 WSH = {
 	color = rgb { 20 133 237 }
@@ -1145,7 +1145,7 @@ REU = {
 }
 
 NIR = {
-	color = rgb { 201 56 93 }
+	color = rgb { 201 46 73 }
 	color_ui = rgb { 255 73 121 }
 }
 BNT = {
