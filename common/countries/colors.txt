@@ -313,6 +313,21 @@ PRC = {
 	color_ui = rgb { 178 34 60 }
 }
 
+MON_ML = {
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 178 34 60 }
+}
+
+SIK_ML = {
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 178 34 60 }
+}
+
+TIB_ML = {
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 178 34 60 }
+}
+
 GXC = {
 	color = rgb { 71 113 97 }
 	color_ui = rgb { 71 113 97 }
