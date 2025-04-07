@@ -45,5 +45,97 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/groups/unknown.dds"
 		legacy_lazy_load = no
 	}
+	spriteType = {
+		name = "GFX_ideology_anarcho-communism"
+		texturefile = "gfx/interface/ideologies/anarcho-communism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_anarcho-syndicalism"
+		texturefile = "gfx/interface/ideologies/anarcho-syndicalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_zapatism"
+		texturefile = "gfx/interface/ideologies/zapatism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_eco-anarchism"
+		texturefile = "gfx/interface/ideologies/eco-anarchism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_agro-anarchism"
+		texturefile = "gfx/interface/ideologies/agro-anarchism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_neoluddism"
+		texturefile = "gfx/interface/ideologies/neoluddism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_anarcho-stratocracy"
+		texturefile = "gfx/interface/ideologies/anarcho-stratocracy.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_full-anarchism"
+		texturefile = "gfx/interface/ideologies/full-anarchism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_anarcho-pacifism"
+		texturefile = "gfx/interface/ideologies/anarcho-pacifism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_mystical-anarchism"
+		texturefile = "gfx/interface/ideologies/mystical-anarchism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_marxismleninism"
+		texturefile = "gfx/interface/ideologies/marxismleninism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_hardline"
+		texturefile = "gfx/interface/ideologies/hardline.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_technosocialism"
+		texturefile = "gfx/interface/ideologies/technosocialism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_leftjunta"
+		texturefile = "gfx/interface/ideologies/leftjunta.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_nationalcommunism"
+		texturefile = "gfx/interface/ideologies/nationalcommunism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_proletkult"
+		texturefile = "gfx/interface/ideologies/proletkult.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_technocracy"
+		texturefile = "gfx/interface/ideologies/technocracy.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_syndicalism"
+		texturefile = "gfx/interface/ideologies/syndicalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_democratic_socialism"
+		texturefile = "gfx/interface/ideologies/democratic_socialism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_reform_socialism"
+		texturefile = "gfx/interface/ideologies/reform_socialism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_patriotic_socialism"
+		texturefile = "gfx/interface/ideologies/patriotic_socialism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_neomarxism"
+		texturefile = "gfx/interface/ideologies/neomarxism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_amerindianism"
+		texturefile = "gfx/interface/ideologies/amerindianism.dds"
+	}
 	
 }

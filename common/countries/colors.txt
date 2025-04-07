@@ -313,21 +313,6 @@ PRC = {
 	color_ui = rgb { 178 34 60 }
 }
 
-MON_ML = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 178 34 60 }
-}
-
-SIK_ML = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 178 34 60 }
-}
-
-TIB_ML = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 178 34 60 }
-}
-
 GXC = {
 	color = rgb { 71 113 97 }
 	color_ui = rgb { 71 113 97 }
@@ -1138,6 +1123,10 @@ TXS = {
 	color = rgb { 70 90 139 }
 	color_ui = rgb { 0 70 170 }
 }
+LOU = {
+	color = rgb { 10 70 170 }
+	color_ui = rgb { 0 70 170 }
+}
 LAK = {
 	color = rgb { 191 57 57 }
 	color_ui = rgb { 191 57 57 }
@@ -1174,5 +1163,20 @@ NGA = {
 SAH = {
 	color = rgb { 194 178 128 }
 	color_ui = rgb { 194 178 128 }
+}
+
+MON_ML = {
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 178 34 60 }
+}
+
+SIK_ML = {
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 178 34 60 }
+}
+
+TIB_ML = {
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 178 34 60 }
 }
 

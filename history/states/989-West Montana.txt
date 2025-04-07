@@ -1,0 +1,33 @@
+
+state={
+	id=989
+	name="STATE_988"
+	manpower = 445031
+	
+	state_category = rural
+	
+	resources={
+		steel=18 # was: 32
+		chromium=1 # was: 2
+		tungsten=18 # was: 34
+	}
+
+	history={
+		owner = NWF
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = CAS
+		add_core_of = NWF
+		victory_points = {
+			12124 1
+		}
+	}
+
+	provinces={
+		1736 1854 6742 7779 10672 
+	}
+	
+
+	local_supplies=7.0 
+}

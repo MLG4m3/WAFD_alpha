@@ -142,6 +142,10 @@ create_country_leader = {
 	}
 }
 
+add_ideas = {
+	american_collapse
+}
+
 # recruit_character = 
 
 
