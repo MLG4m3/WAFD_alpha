@@ -1,0 +1,38 @@
+
+state={
+	id=990
+	name="STATE_990"
+	manpower = 1000
+	
+	state_category = town
+	
+	resources={
+		oil=2
+	}
+
+	history={
+		owner = BYA
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+		}
+		add_core_of = BYA
+		add_core_of = BYA
+		victory_points = {
+			9713 1 
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+			}
+		}
+	}
+
+	provinces={
+		677 6699 9713 11658
+	}
+
+	local_supplies=0.0 
+}

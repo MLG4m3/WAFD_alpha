@@ -1,0 +1,44 @@
+
+state={
+	id=991
+	name="STATE_991"
+	manpower = 1000
+	
+	state_category = metropolis
+	
+	resources={
+		aluminium=8
+	}
+
+	history={
+		owner = BYA
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 5
+			9671 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = BYA
+		add_core_of = CAL
+		victory_points = {
+			9814 30
+		}
+		victory_points = {
+			9671 25
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 7
+			}
+		}
+	}
+
+	provinces={
+		3677 3678 9671
+	}
+
+	local_supplies=0.0 
+}
