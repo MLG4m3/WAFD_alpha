@@ -1,0 +1,44 @@
+
+state={
+	id=996
+	name="STATE_996"
+	manpower = 1000
+	
+	state_category = metropolis
+	
+	resources={
+		oil=15 # was: 350
+		aluminium=1 # was: 14
+	}
+
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 4 #was: 6
+			arms_factory = 2
+			industrial_complex = 5
+			dockyard = 3
+			air_base = 2
+			9814 = {
+				naval_base = 5
+			}
+		}
+		victory_points = {
+			9814 30
+		}
+		add_core_of = CAL
+		add_core_of = BLD
+		add_core_of = CRP
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+			}
+		}
+	}
+
+	provinces={
+		9814
+	}
+
+	local_supplies=0.0 
+}

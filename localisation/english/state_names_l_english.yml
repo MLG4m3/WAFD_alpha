@@ -648,7 +648,7 @@
  STATE_507:0 "Magallanes"
  STATE_508:0 "Tucumán"
  STATE_509:0 "Chaco Austral"
- STATE_510:0 "Región Mesopotámica" # Was Mesopotamia
+ STATE_510:0 "Mesopotamia" # Was Mesopotamia
  STATE_511:0 "Mendoza"
  STATE_512:0 "Río Negro" # Was Patagonia
  STATE_513:0 "Tlemcen"
@@ -1134,8 +1134,8 @@
  STATE_956: "Santa Fe"
  STATE_957: "Formosa"
  STATE_958: "San Luis y La Pampa"
- STATE_959: "Los Andes"
- STATE_960: "San Juan y La Rioja"
+ STATE_959: "Eurasia"
+ STATE_960: "Anatolia Y Kurdistan"
  STATE_961: "Amazon" # impassables
  STATE_962: "Amazon" # impassables
  STATE_963: "Amazon" # impassables

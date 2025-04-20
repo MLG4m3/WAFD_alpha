@@ -1,0 +1,35 @@
+
+state={
+	id=993
+	name="STATE_993"
+	manpower = 1000
+	
+	state_category = rural
+	
+	resources={
+		oil=1 # was: 350
+		aluminium=1 # was: 14
+	}
+
+	history={
+		owner = JEF
+		buildings = {
+			infrastructure = 2 #was: 6
+			arms_factory = 1
+		}
+		add_core_of = CAL
+		add_core_of = WMT
+		add_core_of = BYA
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+			}
+		}
+	}
+
+	provinces={
+		6694 6876
+	}
+
+	local_supplies=0.0 
+}

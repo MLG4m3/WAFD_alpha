@@ -234,8 +234,8 @@ SIA = {
 	color_ui = rgb { 222 247 198 }
 }
 SIK = {
-	color = rgb { 71 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 178 34 60 }
 }
 TIB = {
 	color = rgb { 80 115 45}
@@ -263,8 +263,8 @@ MON = {
 	color_ui = rgb { 209 247 133 }
 }
 MEN = {
-	color = rgb { 185  255  152 }
-	color_ui = rgb { 165  230  132 }
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 245 12 55 }
 }
 TAN = {
 	color = rgb { 152 130 191 }
@@ -1099,6 +1099,10 @@ WMT = {
 	color = rgb { 108 140 42 }
 	color_ui = rgb {  108 140 42 }
 }
+LIN = {
+	color = rgb { 179 24 26 }
+	color_ui = rgb { 179 24 26 }
+}
 JEF = {
 	color = rgb { 217 201 69 }
 	color_ui = rgb { 217 201 69 }
@@ -1165,17 +1169,12 @@ SAH = {
 	color_ui = rgb { 194 178 128 }
 }
 
-MON_ML = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 178 34 60 }
+UYG = {
+	color = rgb  { 76 183 255 }
+	color_ui = rgb { 76 183 255 }
 }
 
-SIK_ML = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 178 34 60 }
-}
-
-TIB_ML = {
+XIZ = {
 	color = rgb { 245 12 55 }
 	color_ui = rgb { 178 34 60 }
 }

@@ -1,0 +1,33 @@
+
+state={
+	id=995
+	name="STATE_995"
+	manpower = 1000
+	
+	state_category = town
+	
+	resources={
+		oil=15 # was: 350
+		aluminium=1 # was: 14
+	}
+
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 2 #was: 6
+			arms_factory = 1
+		}
+		add_core_of = CAL
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+			}
+		}
+	}
+
+	provinces={
+		9855 10483
+	}
+
+	local_supplies=0.0 
+}

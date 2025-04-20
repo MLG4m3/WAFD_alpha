@@ -6,7 +6,7 @@ state = {
 	}
 
 	history = {
-		owner = MON
+		owner = MEN
 
 		buildings = {
 			infrastructure = 1
@@ -20,6 +20,7 @@ state = {
 		}
 
 		add_core_of = MON
+		add_core_of = MEN
 		add_claim_by = CHI
 	}
 	manpower = 88200

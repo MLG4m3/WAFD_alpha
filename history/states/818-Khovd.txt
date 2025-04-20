@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = MON
+		owner = MEN
 		buildings = {
 			infrastructure = 1
 		}
@@ -14,6 +14,7 @@ state={
 			7843 1 #Ulaangom
 		}
 		add_core_of = MON
+		add_core_of = MEN
 		add_claim_by = CHI
 	}
 	manpower=149000

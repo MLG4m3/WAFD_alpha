@@ -1,0 +1,33 @@
+
+state={
+	id=997
+	name="STATE_997"
+	manpower = 1000
+	
+	state_category = town
+	
+	resources={
+		oil=30 # was: 350
+		aluminium=2 # was: 14
+	}
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2 #was: 6
+			arms_factory = 1
+		}
+		add_core_of = CAL
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+			}
+		}
+	}
+
+	provinces={
+		823 1562 7517 7986 11757 12374
+	}
+
+	local_supplies=0.0 
+}
