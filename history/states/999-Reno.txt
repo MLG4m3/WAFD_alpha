@@ -1,0 +1,41 @@
+state = {
+	id = 999
+	name = "STATE_999"
+	manpower = 1000
+	
+	state_category = rural
+	
+	resources = {
+		steel = 60
+		tungsten = 20
+		aluminium = 15
+	}
+
+	history = {
+
+		owner = WMT
+		add_core_of = WMT
+
+		buildings = {
+			infrastructure = 2
+
+			# Hoover Dam
+			4799 = { dam_mountain = 1 }
+
+		}
+
+		victory_points = {
+			10422 5 # Reno
+		}
+		victory_points = {
+			4607 7 # Carson
+		}
+		
+	}
+
+	provinces = {
+		4521 4607 4736 10422 12134
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,38 @@
+state = {
+	id = 1000
+	name = "STATE_1000"
+	manpower = 1000
+	
+	state_category = town
+	
+	resources = {
+		steel = 20
+		tungsten = 10
+		aluminium = 25
+	}
+
+	history = {
+
+		owner = NYC
+		add_core_of = NYC
+
+		buildings = {
+			infrastructure = 2
+
+			# Hoover Dam
+			4799 = { dam_mountain = 1 }
+
+		}
+
+		victory_points = {
+			4799 5 # Las Vegas
+		}
+		
+	}
+
+	provinces = {
+		4799 12425 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=1002
+	name="STATE_1002"
+	manpower = 1000
+	
+	state_category = rural
+	
+	resources={
+		steel=20 # was: 40
+		oil=5 # was: 10
+		aluminium=8 # was: 16
+	}
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+		}
+		add_core_of = MEX
+
+	}
+
+	provinces={
+		3834 7920 10783
+	}
+
+	local_supplies=8.0 
+}

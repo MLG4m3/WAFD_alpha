@@ -1,0 +1,32 @@
+
+state={
+	id=998
+	name="STATE_998"
+	manpower = 1000
+	
+	state_category = rural
+	
+	resources={
+		aluminium=10 # was: 14
+	}
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2 #was: 6
+			arms_factory = 1
+		}
+		add_core_of = CAL
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+			}
+		}
+	}
+
+	provinces={
+		4727 11795 12303
+	}
+
+	local_supplies=0.0 
+}
