@@ -13,12 +13,13 @@ state={
 	}
 
 	history={
-		owner = NWF
+		owner = LIN
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = CAS
 		add_core_of = NWF
+		add_core_of = LIN
 		victory_points = {
 			12124 1
 		}

@@ -5,7 +5,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = CAS
+		owner = LIN
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
@@ -14,7 +14,8 @@ state={
 		victory_points = {
 		1690 1 # Spokane
 		}
-		add_core_of = CAS
+		add_core_of = CAS	
+		add_core_of = LIN
 
 	}
 

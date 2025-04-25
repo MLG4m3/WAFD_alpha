@@ -1,7 +1,7 @@
 
 state={
-	id=376
-	name="STATE_376"
+	id=1005
+	name="STATE_1005"
 	manpower = 423316
 	
 	state_category = rural
@@ -20,12 +20,12 @@ state={
 		}
 		add_core_of = TXS
 		victory_points = {
-			4975 1
+			12720 1
 		}
 	}
 
 	provinces={
-		3867 3883 4975 8070 12791 
+		2102 10642 10867 12684 12720 
 	}
 	
 
